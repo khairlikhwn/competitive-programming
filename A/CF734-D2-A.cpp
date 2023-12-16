@@ -17,5 +17,5 @@ int main(){
     if(a>d) cout << "Anton" << endl;
     if(d>a) cout << "Danik" << endl;
     if(a==d) cout << "Friendship" << endl;
-    return 0;
+    return 0; 
 }
